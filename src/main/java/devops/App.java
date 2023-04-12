@@ -4,7 +4,7 @@ package devops;
  * Hello worlds!
  *
  */
-public class Apps
+public class App
 {
     public static void main( String[] args )
     {
